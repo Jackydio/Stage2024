@@ -8,4 +8,4 @@ Sito dinamico hostato in locale (localhost:3000)
 Linguaggi utilizzati: JavaScript, Tyoescript e Css.
 
 
-https://nodejs.org/      Vercel.com      https://visualstudio.microsoft.com/     
+https://nodejs.org      https://Vercel.com      https://visualstudio.microsoft.com     
